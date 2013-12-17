@@ -1,0 +1,11 @@
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- <item -->
+    <!-- android:state_enabled="false" -->
+    <!-- android:drawable="@drawable/button_forgotten" -->
+    <!-- /> -->
+    <item android:drawable="@drawable/button_transparent_clicked_small" android:state_enabled="true" android:state_pressed="true"/>
+    <item android:drawable="@drawable/button_transparent_small" android:state_enabled="true"/>
+    <item android:drawable="@drawable/button_dark_disabled_small" android:state_enabled="false"/>
+
+</selector>
