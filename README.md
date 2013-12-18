@@ -4,6 +4,9 @@ DoubleSlideExpandableListView
 DoubleSlideExpandableListView with animation and double level (improvements from tjerkw project)
 
 
+<p><a href="https://github.com/olivierg13/DoubleSlideExpandableListView/blob/master/raw/pictures.png" target="_blank"><img src="https://github.com/olivierg13/DoubleSlideExpandableListView/blob/master/raw/pictures.png" alt="Screenshot" style="max-width:100%;"></a></p>
+
+
 You can find some examples of use for this library in the file MainActivity.java
 
 Improvements :
