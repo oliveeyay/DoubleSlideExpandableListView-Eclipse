@@ -7,7 +7,8 @@ DoubleSlideExpandableListView with animation and double level (improvements from
 <p><a href="https://raw.github.com/olivierg13/DoubleSlideExpandableListView/master/raw/pictures.png" target="_blank"><img src="https://raw.github.com/olivierg13/DoubleSlideExpandableListView/master/raw/pictures.png" alt="Screenshot" style="max-width:100%;"></a></p>
 
 
-You can find some examples of use for this library in the file MainActivity.java
+You can find some examples of use for this library in the file MainActivity.java (located in android-sources).
+You can find a simple Junit test using Robotium in the RobotiumDoubleSlideExpandableListView folder.
 
 Improvements :
 - Double level with nested parent and son list
